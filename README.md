@@ -22,6 +22,10 @@ Add a link to the file you added in `userfiles` to the list below.
 
 [bryan-2006](./userfiles/bryan-2006.md)
 
+[lewzey file](./lewzey.md)
+
+[oomuh570](./oomuh570.md)
+
 [lewzey file](./userfiles/lewzey.md)
 
 [My Quote](userfiles/rishav05-ship-it.md)
